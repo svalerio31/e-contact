@@ -1,0 +1,48 @@
+body {
+    margin: 0px;
+}
+#Titulo01 {
+    color: white;
+    text-align: center;
+    background-color: rgb(33, 111, 177);
+    border: 1px solid gray;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 12px;
+    font-size: 25px;
+    text-shadow: 10px 10px 10px gray    
+}
+
+#Titulo02 {
+    color: white;
+    text-align: center;
+    background-color: rgb(44, 153, 163);
+    font-size: 30px;
+    padding: 20px;
+}
+
+#Titulo02 #Texto02 {
+    color: black;
+    font-size: 16px;
+}
+#Prueba {
+    color: black;
+    text-align: center;
+    background-color: rgb(33, 111, 177);
+}
+
+#contenedor {
+
+    margin-left: 20%;
+    text-align: center;
+}
+
+#Parrafo01{
+
+    line-height: 2;
+}
+
+.imagen01{
+    margin-right: 20%;
+    float: right;
+}
